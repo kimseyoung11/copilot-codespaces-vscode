@@ -1,37 +1,140 @@
-# Compiled source #
-###################
-*.com
-*.class
-*.dll
-*.exe
-*.o
-*.so
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>풀잎채</title>
+<link rel="stylesheet" href="css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap" rel="stylesheet">
+</head>
+<body>
 
-# Packages #
-############
-# it's better to unpack these files and commit the raw source
-# git has its own built in compression methods
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
 
-# Logs and databases #
-######################
-*.log
-*.sql
-*.sqlite
+<!-- 메뉴 -->
+<div class="top1">
+	<a href="index.html"><img src="images/logo.png"></a>
+</div>
 
-# OS generated files #
-######################
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+ <div class="wrap">
+	 <div class="center">
+	   <ul class="nav">
+			<li><a href="sub/index.html"  target="_blank">풀잎채 이야기</li></a>
+			<li><a href="#">메뉴 이야기</li></a>
+			<li><a href="#">매장안내</li></a>
+			<li><a href="#">풀잎멤버십</li></a>
+			<li><a href="#">이벤트</li></a>
+		</ul>
+	</div>
+</div>
+
+<!-- 메인 -->
+<div class="con1">
+
+</div>
+
+
+<div class="con2">
+	<div class="wrap2">
+
+		<div class="con21">
+		<div class="con211">
+		<p>풀잎채 소개</p>
+		</div>
+		<div class="con212">
+		<p>풀잎채<br>
+		SINCE 1995</p>
+		</div>
+		<div class="con213">
+		<div></div>
+		</div>
+		<div class="con214">
+		<p>풀잎채는 사람의 온기처럼<br>
+		따뜻하고 건강한밥상을 <br>
+		만들어나갑니다.</p>
+		</div>
+
+		</div>
+
+
+		<div class="con22">
+			<a href="#"><div><div><img src="images/10.png"><div>풀잎채의 생각</div><p>풀잎채의 생각을 소개합니다.</p></div></div></a>
+			<a href="#"><div><div><img src="images/9.png"><div>BI 소개</div><p>풀잎채의 BI를 소개합니다.</p></div></div></a>
+			<a href="#"><div><div><img src="images/8.png"><div>기업 공고</div><p>기업 공고문을 안내합니다.</p></div></div></a>
+		</div>
+		
+	</div>
+</div>
+
+
+<div class="con3">
+
+	<div class="con31">
+		<img src="images/11.png">
+		<div class="txt1">
+		<div class="a"><p>제철신메뉴</p></div>
+		<div class="b"><p>풀잎채에서 계절식을 맛보세요</p></div>
+		<a href="#"><div class="c"><p>자세히보기</p></div></a>
+		</div>
+	</div>
+	
+	<div  class="con31">
+		<img src="images/12.png">
+		<div class="txt1">
+		<div class="a"><p>대표먹거리</p></div>
+		<div class="b"><p>풀잎채만의 건강식 네 가지</p></div>
+		<a href="#"><div class="c"><p>자세히보기</p></div></a>
+		</div>
+	</div>
+</div>
+
+<div class="con4">
+
+	<div class="con41">
+		<div class="con411">
+		<p>인스타그램</p>
+		</div>
+		
+		<div class="con412">
+		<p>Instagram</p>
+		</div>
+		
+		<div class="con413">
+		<div></div>
+		</div>
+		
+		<div class="con414">
+		<p>풀잎채 인스타그램에서<br>
+		많은 사진들을 확인해보세요</p>
+		</div>
+		
+		<div class="con415">
+		<a href="#">인스타그램 가기</a>
+		</div>
+	</div>
+
+	<div class="con42">
+		<a href="#"><div><img src="images/6.png"></div></a>
+		<a href="#"><div><img src="images/15.png"></div></a>
+		<a href="#"><div><img src="images/7.png"></div></a>
+	</div>
+</div>
+
+<div class="con5">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1582.730949221196!2d127.1346415446353!3d37.497022717852936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3e788d82787b84e5!2zKOyjvCntkoDsno7ssYQ!5e0!3m2!1sko!2skr!4v1590897986365!5m2!1sko!2skr" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
+
+<!-- 푸터 -->
+<div class="footer">
+	<div class="wrap3">
+		<div class="copy">
+			<span>(주)풀잎채 &emsp; 서울 송파구 오금로 46길 9 베스트 빌딩 &emsp; 대표번호 1661-7090 &emsp; 대표 정인기</span>
+			<p>Copyright(C) 2014 풀잎채 All rights reserved.</p>
+		</div>
+	<div class="copy2">
+		<div><img src="images/brand_01.png"></div>
+		<div><img src="images/brand_02.png"></div>
+		<div><img src="images/brand_03.png"></div>
+	</div>
+	</div>
+</div>
+</body>
+</html>
